@@ -5,6 +5,7 @@ import ListaDeTareas from './componentes/ListaDeTareas';
 function App() {
   return (
     <div className='aplicacion-tareas'>
+      <h2>Modificado en rama-jorge</h2>
       <div className='freecodecamp-logo-contenedor'>
         <img 
           src={freeCodeCampLogo} 
